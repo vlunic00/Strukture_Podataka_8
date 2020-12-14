@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\vedro\source\repos\Zadatak 8\Zadatak 8\Source.c(24,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\vedro\source\repos\Zadatak 8\Zadatak 8\Source.c(32,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\vedro\source\repos\Zadatak 8\Zadatak 8\Source.c(86,9): warning C4033: 'createNode' must return a value
+C:\Users\vedro\source\repos\Zadatak 8\Zadatak 8\Source.c(90): warning C4715: 'createNode': not all control paths return a value
+  Zadatak 8.vcxproj -> C:\Users\vedro\source\repos\Zadatak 8\Debug\Zadatak 8.exe
